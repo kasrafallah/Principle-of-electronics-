@@ -4,7 +4,7 @@ Principle of electronics is one of the undergraduate courses in Sharif universit
 #### course parts
 
 #### assignment's
-you could find my assignment's in [folder above](https://www.google.com)
+you could find my assignment's in [folder above](https://github.com/kasrafallah/Principle-of-electronics-/tree/main/assignment's)
 
 #### labratorary(Pspice simulation)
 you could find my assignment's in [folder above](https://www.google.com)
